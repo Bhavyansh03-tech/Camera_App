@@ -21,7 +21,7 @@ This repository contains a camera app for Android that allows users to capture p
 
 1. Clone the repository:
     ```bash
-    https://github.com/Bhavyansh03-tech/Camera_App.git
+    git clone https://github.com/Bhavyansh03-tech/Camera_App.git
     ```
 2. Open the project in Android Studio.
 3. Build and run the app on your Android device or emulator.
