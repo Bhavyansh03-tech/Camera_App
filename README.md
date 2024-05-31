@@ -12,8 +12,8 @@ This repository contains a camera app for Android that allows users to capture p
 ## Screenshots
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/Bhavyansh03-tech/Camera_App/assets/96388594/ae842918-4ca9-4ac8-92ae-ae9ee69e8222" alt="First Flow Row" style="width: 200px; height: auto; margin-right: 10px;">
-    <img src="https://github.com/Bhavyansh03-tech/Camera_App/assets/96388594/1d6b08a2-14b0-4b94-9af1-f0a759c360f4" alt="Second Flow Row" style="width: 200px; height: auto;">
+    <img src="https://github.com/Bhavyansh03-tech/Camera_App/assets/96388594/1d6b08a2-14b0-4b94-9af1-f0a759c360f4" alt="First Flow Row" style="width: 200px; height: auto; margin-right: 10px;">
+    <img src="https://github.com/Bhavyansh03-tech/Camera_App/assets/96388594/ae842918-4ca9-4ac8-92ae-ae9ee69e8222" alt="Second Flow Row" style="width: 200px; height: auto;">
 </div>
 
 ## Installation
@@ -21,7 +21,7 @@ This repository contains a camera app for Android that allows users to capture p
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/camera-app.git
+    https://github.com/Bhavyansh03-tech/Camera_App.git
     ```
 2. Open the project in Android Studio.
 3. Build and run the app on your Android device or emulator.
