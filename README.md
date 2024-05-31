@@ -11,8 +11,10 @@ This repository contains a camera app for Android that allows users to capture p
 
 ## Screenshots
 
-![WhatsApp Image 2024-05-31 at 15 57 29_0d7e4d10](https://github.com/Bhavyansh03-tech/Camera_App/assets/96388594/ae842918-4ca9-4ac8-92ae-ae9ee69e8222)
-![WhatsApp Image 2024-05-31 at 15 56 49_5b800247](https://github.com/Bhavyansh03-tech/Camera_App/assets/96388594/1d6b08a2-14b0-4b94-9af1-f0a759c360f4)
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github.com/Bhavyansh03-tech/Camera_App/assets/96388594/ae842918-4ca9-4ac8-92ae-ae9ee69e8222" alt="First Flow Row" style="width: 200px; height: auto; margin-right: 10px;">
+    <img src="https://github.com/Bhavyansh03-tech/Camera_App/assets/96388594/1d6b08a2-14b0-4b94-9af1-f0a759c360f4" alt="Second Flow Row" style="width: 200px; height: auto;">
+</div>
 
 ## Installation
 
