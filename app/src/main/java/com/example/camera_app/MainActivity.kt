@@ -6,8 +6,6 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
-import androidx.compose.runtime.Composable
-import androidx.compose.ui.tooling.preview.Preview
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
 import com.example.camera_app.presentation.screens.CameraScreen
@@ -51,11 +49,5 @@ class MainActivity : ComponentActivity() {
             ) == PackageManager.PERMISSION_GRANTED
 
         }
-    }
-
-    @Preview(showBackground = true, showSystemUi = true)
-    @Composable
-    private fun PrevCameraScreen() {
-        CameraScreen(this)
     }
 }
